@@ -16,7 +16,7 @@ import { CiBellOn } from "react-icons/ci";
 
 export default function App() {
     return (
-        <Navbar maxWidth="2xl" className="px-10">
+        <Navbar maxWidth="xl" className="px-10">
             <NavbarContent className="gap-8" justify="start">
                 <NavbarItem>
                     <Button as={Link} color="primary" href="#" variant="flat" radius="full" className="bg-primary text-white">
