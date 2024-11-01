@@ -12,8 +12,15 @@ module.exports = {
         sans: ['Poppins', 'sans-serif'],
       },
       colors: {
-        primary: '#1E90FF',
+        primary: '#69AF1E',
         secondary: '#FF6347',
+        black: '#000000',
+        white: '#FFFFFF',
+        background: '#E2FBC7',
+
+        
+
+        
       },
       spacing: {
         '128': '32rem',
